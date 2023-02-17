@@ -6,6 +6,6 @@ public class Example1 {
         System.out.println(thread.isInterrupted());
         thread.interrupt();
         System.out.println(thread.isInterrupted());
-        
+
     }
 }
